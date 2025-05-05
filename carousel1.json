@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "image": "Coding-Computer-Science.jpg",
+      "description": "My favourite coding language out of them is python."
+    },
+    {
+      "image": "IMG_0511.JPG",
+      "description": "Took this picture when I was in a Computer Museum of Computing"
+    },
+    {
+      "image": "IMG_1709.PNG",
+      "description": "Me working on my Ardunino Project which is on Runner V2 LED Game"
+    },
+    {
+      "image": "BangorUni.png",
+      "description": "Picture of this beatiful building in Bangor"
+    },
+    {
+      "image": "Previous Project .png",
+      "description": "Preview of what I done in my foundation year project"
+    },
+    {
+      "image": "BillGates.jpg",
+      "description": "This is what Bill Gates said about the computer in technology"
+    },
+    {
+      "image": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "description": ""
+    },
+    {
+      "image": "",
+      "description": ""
+    }
+  ]
+}
+
+
+  
